@@ -7,6 +7,8 @@ pip install django
 pip install djangorestframework  
   
 # Django broilerplate installation:  
+Most of this code was pulled from the Django broiler plate.  
+To install the broilerplate, type in the terminal:  
 django-admin startproject myproject  
 
 # To run the project:
