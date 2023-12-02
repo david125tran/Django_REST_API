@@ -2,6 +2,10 @@
 A REST api built with Django using their broilerplate that has Create, Read, and Delete functionality.  
 Docs: https://www.django-rest-framework.org/
   
+# Requirements  
+Django==4.2.7  
+djangorestframework==3.14.0  
+  
 # Terminall installations:
 pip install django  
 pip install djangorestframework  
