@@ -42,5 +42,6 @@ https://127.0.0.1:8000
 https://127.0.0.1:8000  
 Click the delete button:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/delete1.png" width="70%">  
+  
 This button will delete all of the entries from the database:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/delete2.png" width="70%">
