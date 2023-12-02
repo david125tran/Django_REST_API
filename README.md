@@ -23,7 +23,8 @@ Go to the add page to add an entry to the database:
   
 Example of JSON format for entry:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/add_example1.png" width="70%">  
-  
+
+Syntax:  
 {  
 "name":"Joe"  
 }  
