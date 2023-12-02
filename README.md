@@ -20,6 +20,7 @@ python manage.py runserver
 https://127.0.0.1:8000/add  
 Go to the add page to add an entry to the database:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/add.png" width="70%">  
+  
 Example of JSON format for entry:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/add_example1.png" width="70%">  
   
@@ -28,7 +29,7 @@ Example of JSON format for entry:
 }  
   
 Click "post"  
-
+  
 The entry was added:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/add_example2.png" width="70%">
 
