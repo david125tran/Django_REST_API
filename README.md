@@ -33,12 +33,12 @@ The entry was added:
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/add_example2.png" width="70%">
 
 # Read / Get:  
-https://127.0.0.1:8000
+https://127.0.0.1:8000  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/get.png" width="70%">
 
 # Delete  
 https://127.0.0.1:8000  
-Click the delete button:
+Click the delete button:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/delete1.png" width="70%">  
 This button will delete all of the entries from the database:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/delete2.png" width="70%">
