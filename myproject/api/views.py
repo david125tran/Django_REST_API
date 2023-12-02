@@ -2,18 +2,9 @@ from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from base.models import Item
 from .serializers import ItemSerializer
-
-# imports for delete
 from django.http.response import JsonResponse
 from rest_framework import status
 
-# @api_view(['GET'])
-# def getData(request):
-#     items = Item.objects.all()
-#     serializer = ItemSerializer(items, many=True)
-#     return Response(serializer.data)
-from django.http.response import JsonResponse
-from rest_framework import status
 @api_view(['GET', 'DELETE'])
 def getData(request):
     # http://127.0.0.1:8000/
