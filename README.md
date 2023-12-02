@@ -26,15 +26,16 @@ Example of JSON format for entry:
   
 Click "post"  
 
-The entry is added:  
+The entry was added:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/add_example2.png" width="70%">
 
 # Read / Get:  
 127.0.0.1:8000
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/get.png" width="70%">
 
-# 
-
-
-<img src="" width="70%">
-<img src="" width="70%">
+# Delete  
+127.0.0.1:8000  
+Click the delete button:
+<img src="https://github.com/david125tran/Django_REST_API/blob/main/images/delete1.png" width="70%">  
+This button will delete all of the entries from the database:  
+<img src="https://github.com/david125tran/Django_REST_API/blob/main/images/delete2.png" width="70%">
