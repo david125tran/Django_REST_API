@@ -1,5 +1,5 @@
 # Django_REST_API  
-A REST api built with Django using their broilerplate.  
+A REST api built with Django using their broilerplate that has Create, Read, and Delete functionality.  
 Docs: https://www.django-rest-framework.org/
   
 # Terminall installations:
@@ -16,7 +16,7 @@ python manage.py runserver
 
 # Create / Post:
 https://127.0.0.1:8000/add  
-Go to the add page:  
+Go to the add page to add an entry to the database:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/add.png" width="70%">  
 Example of JSON format for entry:  
 <img src="https://github.com/david125tran/Django_REST_API/blob/main/images/add_example1.png" width="70%">  
